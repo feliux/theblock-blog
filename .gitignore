@@ -1,0 +1,16 @@
+# General
+*secret*
+*tfstate*
+
+# Paths
+keys/
+secrets/
+
+.terraform/
+
+# Files
+*.hcl
+*.zip
+
+tfplan
+bootstrap
